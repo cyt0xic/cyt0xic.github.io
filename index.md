@@ -9,5 +9,12 @@
 - [Zoom Earth](https://zoom.earth/)
 - [World Imagery Wayback](https://livingatlas.arcgis.com/wayback)
 
+## PenTest Methodologies
+
+- [OSSTMM 3](https://www.isecom.org/OSSTMM.3.pdf)
+- [OWASP Foundation | Open Source Foundation for Application Security](https://owasp.org/)
+- [Cybersecurity Framework | NIST](https://www.nist.gov/cyberframework)
+- [CAF - Principles and guidance - NCSC.GOV.UK](https://www.ncsc.gov.uk/collection/caf/caf-principles-and-guidance)
+
 ### Other contributors
 [Vavkamil's Bug Bounty links](https://github.com/vavkamil/awesome-bugbounty-tools)
