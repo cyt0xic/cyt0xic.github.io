@@ -1,11 +1,13 @@
-## cyt0xic's Security Links
+# cyt0xic's Security Links
 
-# OSINT
-##FREE SATELLITE IMAGERY SOURCES
-[Google Earth Pro](https://www.google.co.uk/earth/about/versions/#download-pro)
-[Sentinel Hub Playground](https://apps.sentinel-hub.com/sentinel-playground/?source=S2L2A&lat=40.4&lng=-3.730000000000018&zoom=12&preset=null&layers=&maxcc=20&gain=1.0&gamma=1.0&time=2022-01-01%7C2022-07-06&atmFilter=&showDates=false)
-[Zoom Earth](https://zoom.earth/)
-[World Imagery Wayback](https://livingatlas.arcgis.com/wayback)
+## OSINT
 
-## Other contributors
+### FREE SATELLITE IMAGERY SOURCES
+
+- [Google Earth Pro](https://www.google.co.uk/earth/about/versions/#download-pro)
+- [Sentinel Hub Playground](https://apps.sentinel-hub.com/sentinel-playground/?source=S2L2A&lat=40.4&lng=-3.730000000000018&zoom=12&preset=null&layers=&maxcc=20&gain=1.0&gamma=1.0&time=2022-01-01%7C2022-07-06&atmFilter=&showDates=false)
+- [Zoom Earth](https://zoom.earth/)
+- [World Imagery Wayback](https://livingatlas.arcgis.com/wayback)
+
+### Other contributors
 [Vavkamil's Bug Bounty links](https://github.com/vavkamil/awesome-bugbounty-tools)
