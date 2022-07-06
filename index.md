@@ -16,5 +16,5 @@
 - [Cybersecurity Framework | NIST](https://www.nist.gov/cyberframework)
 - [CAF - Principles and guidance - NCSC.GOV.UK](https://www.ncsc.gov.uk/collection/caf/caf-principles-and-guidance)
 
-### Other contributors
+## Other contributors
 [Vavkamil's Bug Bounty links](https://github.com/vavkamil/awesome-bugbounty-tools)
