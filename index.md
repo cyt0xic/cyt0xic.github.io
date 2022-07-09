@@ -13,6 +13,10 @@
 
 - [Grabify IP Logger](https://grabify.link/)
 
+## Receive data and emails
+
+- [Web Hooks](https://webhook.site/)
+
 ## PenTest Methodologies
 
 - [OSSTMM 3](https://www.isecom.org/OSSTMM.3.pdf)
